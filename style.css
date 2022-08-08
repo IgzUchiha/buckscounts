@@ -10,6 +10,75 @@
   color: #27251F;
   box-sizing: border-box;
   font-family: sans-serif;
+  background-color: #1e3832;
 }
 
 /* your code */
+ 
+h1
+
+{
+
+  /* display:flex; */
+  /* margin-left: 500px; */
+  margin-right: 800px;
+  /* margin-top: 50px; */
+}
+
+
+nav 
+{
+  display: flex;
+  flex-direction: border-box;
+  font-family: sans-serif;
+  background-color: #1e3832;
+   /* margin-left: 300px;
+  margin-right: 300px; */
+  margin-bottom: 100px; 
+}
+nav >h1 
+{
+  color:white;
+  margin-left: -5em;
+  margin-left: 400px;
+  margin-right: -200.5px;
+  
+}
+header
+ {
+  display: flex;
+  justify-content: flex-start;
+  margin-left: 6.4em;
+  margin-top: -2.5em;
+}
+label
+ {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  margin-bottom: 1rem;
+  background-color: #f2f0eb;
+  width: 85%;
+  padding: 1em;
+}
+.city-list
+{
+border: 1px solid #d4e9e2;;
+width :76.5%;
+margin-left: 1em;
+
+}
+.city-item 
+{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: .3em;
+  background-color: #00754a;
+  margin-bottom: .6em;
+  margin-top: .8em;
+  margin-left: .8em;
+  height: 2em;
+}
