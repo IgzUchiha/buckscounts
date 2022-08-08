@@ -35,6 +35,7 @@ nav
    /* margin-left: 300px;
   margin-right: 300px; */
   margin-bottom: 50px; 
+  font-size: 36px;
 }
 nav >h1 
 {
@@ -62,12 +63,14 @@ label
   background-color: #f2f0eb;
   width: 85%;
   padding: 1em;
+
 }
 .city-list
 {
 border: 1px solid #d4e9e2;;
 width :76.5%;
-margin-left: 1em;
+margin-left: 7em;
+
 
 }
 .city-item 
@@ -75,7 +78,7 @@ margin-left: 1em;
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  padding-right: .3em;
+  padding-right: .5em;
   background-color: #00754a;
   margin-bottom: .6em;
   margin-top: .8em;
